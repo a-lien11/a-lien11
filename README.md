@@ -1,7 +1,7 @@
 ## Hello, I'm Austin Lien 👋 
 ![Iowa City badge](https://img.shields.io/static/v1?message=IA&logo=google-maps&labelColor=ffcd00&color=000000&logoColor=black&label=Iowa%20City&style=for-the-badge)
 
-### I am a Senior at the University of Iowa studying Business Analytics with a minor in Computer Science. On campus, I am involved in multiple organizations including Pi Lambda Phi Fraternity and Tippie Technology and Innovation Assoication. 
+### I am a recent graduate from the University of Iowa studying Business Analytics with a minor in Computer Science.
 
 ## Skills
 
